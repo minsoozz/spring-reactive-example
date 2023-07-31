@@ -1,1 +1,6 @@
 rootProject.name = 'reactive'
+include 'part1:chapter3:spring-mvc-headoffice'
+include 'part1:chapter3:spring-mvc-branchoffice'
+include 'part1:chapter3:spring-reactive-headoffice'
+include 'part1:chapter3:spring-reactive-branchoffice'
+
